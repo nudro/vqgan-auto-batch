@@ -1,11 +1,8 @@
 # vqgan-auto-batch
 Script to automate the generation of multiple images from VQGAN-CLIP
 
-<img src=./img/3bp.png width=200>
- <img src=./img/3bp1.png width=200>
- <img src=./img/3bp2.png width=200>
- <img src=./img/3bp3.png width=200>
- <img src=./img/3bp4.png width=200>
+<img src=./img/images.png width=600>
+
 
 ## Requirements:
 
